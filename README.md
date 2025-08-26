@@ -50,7 +50,7 @@
   <section id="contact">
     <h2>Contact</h2>
     <p>Email:tshimbudzithakhani@gmail.com</p>
-    <p>LinkedIn: <a href="https://www.linkedin.com/in/www.linkedin.com/in/thakhani-tshimbudzi.">linkedin.com/in/www.linkedin.com/in/thakhani-tshimbudzi</a></p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/thakhani-tshimbudzi.">linkedin.com/in/thakhani-tshimbudzi</a></p>
     <p>Location: Polokwane, South Africa (open to remote and SA-wide opportunities)</p>
   </section>
 

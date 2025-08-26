@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Thakhani Tshimbudzi | IT Portfolio</title>
+  Thakhani Tshimbudzi | IT Portfolio
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>

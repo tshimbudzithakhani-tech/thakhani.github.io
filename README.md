@@ -26,7 +26,7 @@
       <li>Network Configuration (Cisco, VLANs, SSH)</li>
       <li>System Administration (Active Directory, Fortinet)</li>
       <li>Remote Support & Diagnostics</li>
-      <li>Cloud Fundamentals (Azure, AWS)</li>
+      <li>Cloud Fundamentals (Azure)</li>
       <li>End-User Training & Documentation</li>
       <li>Strategic Risk Planning & Ethical Tech</li>
     </ul>
@@ -50,7 +50,7 @@
   <section id="contact">
     <h2>Contact</h2>
     <p>Email:tshimbudzithakhani@gmail.com</p>
-    <p>LinkedIn: <a href="https://www.linkedin.com/in/yourprofile">linkedin.com/in/yourprofile</a></p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/thakhani.">linkedin.com/in/yourprofile</a></p>
     <p>Location: Polokwane, South Africa (open to remote and SA-wide opportunities)</p>
   </section>
 
